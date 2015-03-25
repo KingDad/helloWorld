@@ -1,1 +1,3 @@
-console.log("Supra")
+jQuery(document).ready(function($) {
+	$('header').html('Hello World');
+});
